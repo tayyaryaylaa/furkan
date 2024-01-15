@@ -81,3 +81,7 @@ a:hover {
 .players .card {
     width: 200px;
 }
+
+.game-start {
+    cursor: pointer;
+}
