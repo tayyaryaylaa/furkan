@@ -79,7 +79,8 @@ a:hover {
 }
 
 .players .card {
-    width: 200px;
+    width: 100%;
+    max-width: 256px;
 }
 
 .game-start {
